@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>lilingkai.github.io</title>
+   
+   <link>http://lilingkai.github.io/</link>
+   <description>Developer, Musician, and Film Enthusiast</description>
+   <language>en-uk</language>
+   <managingEditor> Kevin Li</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Guide to My Film Review Style</title>
+	  <link>//guide-to-my-film-review-style</link>
+	  <author>Kevin Li</author>
+	  <pubDate>2015-12-13T00:00:00-06:00</pubDate>
+	  <guid>//guide-to-my-film-review-style</guid>
+	  <description><![CDATA[
+	     <p>In the future, I&#39;ll be posting reviews of films I watch so I can keep a film journal of sorts. </p>
+
+<p>The basic format will consist of 2-3 parts:</p>
+
+<ul>
+<li>My rating on a 5 star scale</li>
+<li>A short review</li>
+<li>An extended review</li>
+</ul>
+
+<p>Every film I review will have a rating and a short review. Some reviews might also include an extended version. I&#39;ve briefly explained what all this means below:</p>
+
+<h4>The 5 Star Rating System</h4>
+
+<p>The system is quite similar to the “Little Man System”, which was conceived by Mick LaSalle, film critic for the San Francisco Chronicle. </p>
+
+<ul>
+<li><p><strong>5 &quot;Gold&quot;</strong>: The great films. It is usually reserved for films I absolutely loved and would happily watch again and again.</p></li>
+<li><p><strong>4 &quot;Thumbs-Up&quot;</strong>: Definitely good, very enjoyable, and not quite great. People are justified in buying these kinds of films for their movie collection.</p></li>
+<li><p><strong>3 &quot;RTR&quot;</strong>: Which stands for read the review. Nothing screams &quot;GRAY AREA&quot; more than the middle of the spectrum. A 3-star rating is a bit ambiguous; it could be an almost-good-but-not-quite film or an almost-bad-but-not-quite film. In general, I give it to films that are decent, but not exceptional. As LaSalle elaborates, “If it doesn&#39;t transcend the genre, it will mean that someone not drawn to the genre wouldn&#39;t like it.”</p></li>
+<li><p><strong>2 &quot;Thumbs-Down&quot;</strong>: Definitely bad and not worth seeing. These films usually have some redeeming features, but not nearly enough.</p></li>
+<li><p><strong>1 &quot;:(&quot;</strong>: Absolutely terrible. There are few and often no merits to the film.</p></li>
+</ul>
+
+<h4>The Short Review</h4>
+
+<p>My ultimate goal with the short review is to showcase the film’s merits (or lack thereof) without giving too much of the plot away. If you are looking for detailed plot summaries, go look it up on the Internet.</p>
+
+<p>These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them sit around 200 words or less. </p>
+
+<h4>The Extended Review</h4>
+
+<p>Sometimes, I will write an extended review, which goes much more in depth than the short review. I will assume the reader has seen the movies, so don&#39;t come crying to me about spoilers.</p>
+
+<p>I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do. </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

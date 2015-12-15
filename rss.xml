@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Kevin Li</title>
+    <link>http://lilingkai.github.io/</link>
+    <description>Developer, Musician, and Film Enthusiast</description>
+    <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
+    <item>
+      <title>Guide to My Film Review Style</title>
+      <link>http://lilingkai.github.io//guide-to-my-film-review-style</link>
+      <description>&lt;p&gt;In the future, I&amp;#39;ll be posting reviews of films I watch so I can keep a film journal of sorts. &lt;/p&gt;
+</description>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
+      <dc:date>2015-12-13T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>First Post - Goals</title>
+      <link>http://lilingkai.github.io//first-post-goals</link>
+      <description>&lt;p&gt;With fall quarter officially over, I finally found the time to get this site up and make it look decent (I hope). For my first post, I just wanted to type out what I hope this website/blog can be:&lt;/p&gt;
+</description>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
+      <dc:date>2015-12-12T00:00:00-06:00</dc:date>
+    </item>
+    <dc:date>2015-12-13T00:00:00-06:00</dc:date>
+  </channel>
+</rss>
