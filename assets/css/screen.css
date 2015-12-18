@@ -509,6 +509,7 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 .main-header .inner {
@@ -872,6 +873,7 @@ body.nav-opened .nav {
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 .page-description {
@@ -882,6 +884,7 @@ body.nav-opened .nav {
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 .no-cover.main-header {
@@ -898,6 +901,42 @@ body.nav-opened .nav {
     color: rgba(0,0,0,0.5);
 }
 
+/* Social Media Icon Banner */
+.social {
+  display: inline-block;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+  font-size: 40px;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
+  text-align: center;
+}
+.social .fa-facebook {
+    color: white;
+}
+.social .fa-twitter {
+    color: white;
+}
+.social .fa-instagram {
+    color: white;
+}
+.social .fa-linkedin {
+    color: white;   
+}
+
+/* Hover Color Change */
+.social .fa-facebook:hover {
+    color: #3B5998;    
+}
+.social .fa-twitter:hover {
+    color: #33CCFF;   
+}
+.social .fa-instagram:hover {
+    color: #9b6954;   
+}
+.social .fa-linkedin:hover {
+    color: #4875B4;   
+}
 /* Add subtle load-in animation for content on the home page */
 .home-template .page-title {
     -webkit-animation: fade-in-down 0.6s;
@@ -1736,6 +1775,9 @@ body:not(.post-template) .post-title {
         border-left: none;
     }
 
+    .social {
+        font-size: 30px;
+    }
 }
 
 
