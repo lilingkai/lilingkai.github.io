@@ -8,7 +8,17 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Film Enthusiast</description>
-    <pubDate>Sun, 13 Dec 2015 00:00:00 -0600</pubDate>
+    <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
+    <item>
+      <title>The Force Awakens</title>
+      <link>http://lilingkai.github.io//star-wars-the-force-awakens</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;The most anticipated movie of the year, &amp;quot;Star Wars: The Force Awakens&amp;quot;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
+      <dc:date>2015-12-18T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Guide to My Film Review Style</title>
       <link>http://lilingkai.github.io//guide-to-my-film-review-style</link>
@@ -25,6 +35,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2015-12-13T00:00:00-06:00</dc:date>
+    <dc:date>2015-12-18T00:00:00-06:00</dc:date>
   </channel>
 </rss>
