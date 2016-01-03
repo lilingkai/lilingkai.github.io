@@ -8,18 +8,30 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Wed, 30 Dec 2015 00:00:00 -0600</pubDate>
+    <pubDate>Sat, 02 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>The Hateful Eight</title>
+      <link>http://lilingkai.github.io//the-hateful-eight-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;Quentin Tarantino’s eighth film, “The Hateful Eight”, is some sort of twisted game of Clue in the style of a Western, set ten or so years after the American Civil War. Add a stellar cast and a beautiful original score written by Ennio Morricone and we’ve got ourselves a good movie that’s entertaining as hell. &lt;/p&gt;
+</description>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-02T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Joy</title>
-      <link>http://lilingkai.github.io//joy-film-review</link>
+      <link>http://lilingkai.github.io//joy-review</link>
       <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;As the film celebrates strong matriarchal characters and the power of determination, I can’t help but wish “Joy” was better. This is David O. Russell’s third film in a row featuring the talented Jennifer Lawrence, but unlike “Silver Lining’s Playbook” and “American Hustle”, “Joy” is a bumpy ride that isn’t always enjoyable.&lt;/p&gt;
 </description>
       <pubDate>Wed, 30 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-30T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>The Force Awakens</title>
-      <link>http://lilingkai.github.io//star-wars-the-force-awakens</link>
+      <link>http://lilingkai.github.io//star-wars-the-force-awakens-review</link>
       <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
 
 &lt;p&gt;The most anticipated movie of the year, &amp;quot;Star Wars: The Force Awakens&amp;quot;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.&lt;/p&gt;
@@ -43,6 +55,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2015-12-30T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-02T00:00:00-06:00</dc:date>
   </channel>
 </rss>
