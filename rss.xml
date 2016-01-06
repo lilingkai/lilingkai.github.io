@@ -8,7 +8,17 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Sat, 02 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>Carol</title>
+      <link>http://lilingkai.github.io//carol-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-05T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>The Hateful Eight</title>
       <link>http://lilingkai.github.io//the-hateful-eight-review</link>
@@ -55,6 +65,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-02T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-05T00:00:00-06:00</dc:date>
   </channel>
 </rss>
