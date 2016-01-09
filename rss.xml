@@ -8,7 +8,17 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>The Revenant</title>
+      <link>http://lilingkai.github.io//the-revenant-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-08T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Carol</title>
       <link>http://lilingkai.github.io//carol-review</link>
@@ -65,6 +75,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-05T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-08T00:00:00-06:00</dc:date>
   </channel>
 </rss>
