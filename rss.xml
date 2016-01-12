@@ -8,7 +8,19 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>Moonrise Kingdom</title>
+      <link>http://lilingkai.github.io//moonrise-kingdom-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;I feel and see the nostalgia of summer’s end, first love, and youth itself in “Moonrise Kingdom”. It’s easy to let yourself become spellbound by the mini-universe that Wes Anderson creates in his films, and this one is no different. &lt;/p&gt;
+
+&lt;p&gt;The film is set during the summer of 1965 on a New England island where our hero, Sam (Jared Gilman), attends Khaki Scout Camp, and our heroine, Suzy (Kara Hayward), lives with family. Sam and Suzy met last summer and have been plotting their escape from their current living situations since then. The island isn’t very big, but they’re confident they can find their own hideout.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-11T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>The Revenant</title>
       <link>http://lilingkai.github.io//the-revenant-review</link>
@@ -75,6 +87,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-08T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-11T00:00:00-06:00</dc:date>
   </channel>
 </rss>
