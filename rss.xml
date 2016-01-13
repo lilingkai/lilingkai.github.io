@@ -8,7 +8,19 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Tue, 12 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>Deux Jours, Une Nuit</title>
+      <link>http://lilingkai.github.io//deux-jours-une-nuit-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;“Deux Jours, Une Nuit” (Two Days, One Night) reminds us of the people that are negatively affected by the growing wealth gap and the deteriorating middle class. The Dardenne brothers offer yet another important view into the world of the struggling, everyday Belgian worker.&lt;/p&gt;
+
+&lt;p&gt;The main character, Sandra (Marion Cotillard), is a young Belgian mother who is recovering from clinical depression. However, she returns from her sick leave to find that her boss has given her 16 coworkers a choice: receive 1000 euro bonuses or let Sandra return and keep her job. Sandra’s coworkers have already voted in favor of receiving bonuses, but the boss agrees to give her job back if Sandra can get a majority to change their mind by Monday, leaving her with just one weekend to track down her colleagues and ask them to change their votes.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-12T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Moonrise Kingdom</title>
       <link>http://lilingkai.github.io//moonrise-kingdom-review</link>
@@ -85,6 +97,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-11T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-12T00:00:00-06:00</dc:date>
   </channel>
 </rss>
