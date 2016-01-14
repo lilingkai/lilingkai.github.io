@@ -8,7 +8,17 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Tue, 12 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>Ingeborg Holm</title>
+      <link>http://lilingkai.github.io//ingeborg-holm-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;“Ingeborg Holm” is a Swedish social drama based on a play by Nils Krok, hailing from the early days of cinema and the alien planet of silent film. &lt;/p&gt;
+</description>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-13T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Deux Jours, Une Nuit</title>
       <link>http://lilingkai.github.io//deux-jours-une-nuit-review</link>
@@ -97,6 +107,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-12T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-13T00:00:00-06:00</dc:date>
   </channel>
 </rss>
