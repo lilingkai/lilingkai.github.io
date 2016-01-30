@@ -8,7 +8,15 @@
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
     <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
+    <pubDate>Sat, 30 Jan 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>American Beauty</title>
+      <link>http://lilingkai.github.io//american-beauty-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+</description>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-30T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>Ingeborg Holm</title>
       <link>http://lilingkai.github.io//ingeborg-holm-review</link>
@@ -107,6 +115,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-13T00:00:00-06:00</dc:date>
+    <dc:date>2016-01-30T00:00:00-06:00</dc:date>
   </channel>
 </rss>
