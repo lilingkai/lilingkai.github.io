@@ -7,8 +7,46 @@
   <channel>
     <title>Kevin Li</title>
     <link>http://lilingkai.github.io/</link>
-    <description>Developer, Musician, and Cineaste</description>
-    <pubDate>Sat, 30 Jan 2016 00:00:00 -0600</pubDate>
+    <description>Developer, Musician, &amp; Film Enthusiast</description>
+    <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
+    <item>
+      <title>Blue Jasmine</title>
+      <link>http://lilingkai.github.io//blue-jasmine-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+</description>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-02-01T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Princess Mononoke</title>
+      <link>http://lilingkai.github.io//mononoke-hime-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;Hayao Miyazaki proves he is a true master of storytelling in this battle between nature and humans, love and hate, war and peace, life and death. The story is set during medieval Japan, right at the coming of the Iron Age, where humans either live in peace with nature or die trying to tame it.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-31T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Cloud Atlas</title>
+      <link>http://lilingkai.github.io//cloud-atlas-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;A daring work of art showcasing what the magic of cinema has to offer! &amp;quot;Cloud Atlas&amp;quot; manages to be a science-fiction, historical drama, action, mystery, thriller, romance, comedy, and much more. There are six different story lines, spanning from the 1800’s to the 2300’s or so, all told together beyond the bounds of narrative continuity. The same actors are used in multiple story lines, disguised in makeup and costumed so cleverly that sometimes they are unrecognizable.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-31T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Boyhood</title>
+      <link>http://lilingkai.github.io//boyhood-review</link>
+      <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
+
+&lt;p&gt;What a remarkable coming-of-age story and a beautifully human film. This twelve-year project where we witness a boy grow from ages 6 to 18 in the span of 165 min is simply captivating. I was deeply moved by the film and often found myself reminiscing on what my own boyhood was like. &lt;/p&gt;
+</description>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 -0600</pubDate>
+      <dc:date>2016-01-31T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>American Beauty</title>
       <link>http://lilingkai.github.io//american-beauty-review</link>
@@ -115,6 +153,6 @@
       <pubDate>Sat, 12 Dec 2015 00:00:00 -0600</pubDate>
       <dc:date>2015-12-12T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2016-01-30T00:00:00-06:00</dc:date>
+    <dc:date>2016-02-01T00:00:00-06:00</dc:date>
   </channel>
 </rss>
