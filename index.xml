@@ -5,8 +5,34 @@
     <link>http://lilingkai.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lilingkai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Website Update</title>
+      <link>http://lilingkai.github.io/posts/website-update/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lilingkai.github.io/posts/website-update/</guid>
+      <description>
+
+&lt;h3 id=&#34;switch-to-hugo&#34;&gt;Switch to Hugo&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it. Mostly due to the unfortunate fact that my last laptop died and I didn&amp;rsquo;t want to go through the pain of configuring Ruby and Jekyll on a new Windows machine. And it&amp;rsquo;s good to dust off and freshen up things every once in awhile. After a quick research session, I found &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static website generator built with the ever-rising Go language. Hugo is pretty easy to pick up, very fast, and nice and compatible for all OS&amp;rsquo;s (unlike Ruby and Jekyll).&lt;/p&gt;
+
+&lt;h3 id=&#34;new-look&#34;&gt;New Look&lt;/h3&gt;
+
+&lt;p&gt;With a new static generator selected, I wanted to find a new theme. My old theme (Casper for Ghost) was fine, but I wanted something simpler and cleaner. I ended up choosing this &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt; theme, which has been pretty customizable. The documentation for it doesn&amp;rsquo;t explain everything, but once you get comfortable with how Hugo works, it&amp;rsquo;s pretty simple to figure out how to get things to look just the way you want them.&lt;/p&gt;
+
+&lt;h3 id=&#34;changes-updates&#34;&gt;Changes &amp;amp; Updates&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;removed some outdated/irrelevant posts, including some older film reviews&lt;/li&gt;
+&lt;li&gt;updated my resume&lt;/li&gt;
+&lt;li&gt;updated images to fit CSS layout&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud Atlas</title>
@@ -88,10 +114,10 @@
     
     <item>
       <title>Deux Jours Une Nuit</title>
-      <link>http://lilingkai.github.io/posts/duex-jours-une-nuit-review/</link>
+      <link>http://lilingkai.github.io/posts/deux-jours-une-nuit-review/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://lilingkai.github.io/posts/duex-jours-une-nuit-review/</guid>
+      <guid>http://lilingkai.github.io/posts/deux-jours-une-nuit-review/</guid>
       <description>&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt;
 
 &lt;p&gt;“Deux Jours, Une Nuit” (Two Days, One Night) reminds us of the people that are negatively affected by the growing wealth gap and the deteriorating middle class. The Dardenne brothers offer yet another important view into the world of the struggling, everyday Belgian worker.&lt;/p&gt;
@@ -280,8 +306,6 @@
 
 &lt;p&gt;To discuss the film in further detail here would be a crime; just go and experience what the whole world is buzzing about for yourself.&lt;/p&gt;
 
-&lt;p&gt;“Episode VIII” is scheduled for release on May 26, 2017. It’s going to be a long seventeen months.&lt;/p&gt;
-
 &lt;hr /&gt;
 
 &lt;p&gt;Director: J.J. Abrams&lt;/p&gt;
@@ -304,7 +328,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
-&lt;li&gt;A short review&lt;/li&gt;
+&lt;li&gt;A (very) short review&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
@@ -337,7 +361,7 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
 
 &lt;p&gt;My ultimate goal with the short review is to showcase the film’s merits (or lack thereof) without giving too much of the plot away. If you are looking for detailed plot summaries, go look it up on the Internet.&lt;/p&gt;
 
-&lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them sit around 300 words or less.&lt;/p&gt;
+&lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
 &lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
 </description>
@@ -371,19 +395,7 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lilingkai.github.io/filmjournal/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re reading this, you&amp;rsquo;re probably here because you&amp;rsquo;re either:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;lost&lt;/li&gt;
-&lt;li&gt;really bored&lt;/li&gt;
-&lt;li&gt;looking for a good movie and have strangely decided to trust me rather than some other reputable critic&lt;/li&gt;
-&lt;li&gt;actually interested in what I have to say about a certain film (as if!)&lt;/li&gt;
-&lt;li&gt;some or all of the above&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In any case, I&amp;rsquo;m glad you&amp;rsquo;re here, and I hope you find what you&amp;rsquo;re looking for!&lt;/p&gt;
-
-&lt;p&gt;Click &lt;a href=&#34;http://lilingkai.github.io/posts/guide-to-my-film-review-style&#34;&gt;here&lt;/a&gt; if you want a more detailed guide on how I review films.&lt;/p&gt;
+      <description>&lt;p&gt;Click &lt;a href=&#34;http://lilingkai.github.io/posts/guide-to-my-film-review-style&#34;&gt;here&lt;/a&gt; if you want a more detailed guide on how I review films.&lt;/p&gt;
 
 &lt;p&gt;This list of reviews is currently ordered alphabetically by title. Search and Sort functionalities to come soon!&lt;/p&gt;
 

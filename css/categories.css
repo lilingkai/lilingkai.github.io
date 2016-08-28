@@ -1,13 +1,19 @@
 .post-category-film {
-	background: orange;
+	background: darkorange;
 }
 .post-category-life {
-	background: green;
+	background: lightgreen;
 }
-.post-category-development {
-	background: blue;
+.post-category-web {
+	background: cornflowerblue;
+}
+.post-category-tech {
+	background: seagreen;
 }
 .post-category-music {
-	background: red;
+	background: orchid;
+}
+.post-category-travel {
+	background: gold;
 }
 
