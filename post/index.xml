@@ -25,7 +25,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://res.cloudinary.com/lilingkai/image/upload/v1481776868/showcase_fypobq.png&#34; alt=&#34;Tranquilpeak&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the themes&amp;rsquo; config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the theme&amp;rsquo;s config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
 
 &lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
 
