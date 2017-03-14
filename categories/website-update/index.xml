@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website Update on Kevin Li</title>
-    <link>https://lilingkai.github.io/categories/website-update/</link>
+    <link>https://lilingkai.github.io/categories/website-update/index.xml</link>
     <description>Recent content in Website Update on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,9 +14,8 @@
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/12/another-website-update/</guid>
-      <description>
-
-&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:&lt;/p&gt;
+      <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
+&lt;/p&gt;
 
 &lt;h3 id=&#34;visual-update&#34;&gt;Visual Update&lt;/h3&gt;
 
@@ -37,8 +35,7 @@
 &lt;li&gt;removed some more outdated/irrelevant posts, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;moved images to be loaded from a cloud rather than from source, speeding up webpage-loading time&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -47,9 +44,8 @@
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/08/website-update/</guid>
-      <description>
-
-&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.
+&lt;/p&gt;
 
 &lt;h3 id=&#34;switch-to-hugo&#34;&gt;Switch to Hugo&lt;/h3&gt;
 
@@ -65,8 +61,7 @@
 &lt;li&gt;removed some outdated/irrelevant posts and pages, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;updated images to fit CSS layout&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

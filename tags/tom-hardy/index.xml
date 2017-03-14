@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom Hardy on Kevin Li</title>
-    <link>https://lilingkai.github.io/tags/tom-hardy/</link>
+    <link>https://lilingkai.github.io/tags/tom-hardy/index.xml</link>
     <description>Recent content in Tom Hardy on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/tags/tom-hardy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,7 +14,8 @@
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/01/the-revenant/</guid>
-      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.&lt;/p&gt;
+      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.
+&lt;/p&gt;
 
 &lt;p&gt;“The Revenant” is the survival story of Hugh Glass (Leonardo DiCaprio), a fur trapper who was betrayed by John Fitzgerald (Tom Hardy) and left by his companions for dead after being mauled by a bear. It’s a mesmerizing experience, and Alejandro Iñárritu captures the grizzly beauty of the unforgiving mountains and the cold winter.&lt;/p&gt;
 
@@ -33,8 +33,7 @@
 
 &lt;p&gt;Starring: Leonardo DiCaprio, Tom Hardy&lt;/p&gt;
 
-&lt;p&gt;2015, R, 156 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, R, 156 min&lt;/p&gt;</description>
     </item>
     
   </channel>

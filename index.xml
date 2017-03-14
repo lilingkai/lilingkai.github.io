@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Li</title>
-    <link>https://lilingkai.github.io/</link>
+    <link>https://lilingkai.github.io/index.xml</link>
     <description>Recent content on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -15,9 +15,7 @@
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/12/my-best-moments-of-2016/</guid>
-      <description>
-
-&lt;p&gt;The new year is just a few hours away, and it seems that 2016 will be forever seen as quite the poop stain on the scrolls of history.  But that doesn&amp;rsquo;t seem fair to the good parts of 2016, and it&amp;rsquo;s no fun to be bombarded with bad news all the time. So instead of talking about the US election, Brexit, terrorist attacks, celebrity deaths, etc. I wanted to briefly share four of my favorite moments from this year. While reading about it might not be all that interesting or uplifting to you as it was for me writing it, I hope that you too can look back on your own year and see that maybe 2016 wasn&amp;rsquo;t too bad after all.&lt;/p&gt;
+      <description>&lt;p&gt;The new year is just a few hours away, and it seems that 2016 will be forever seen as quite the poop stain on the scrolls of history.  But that doesn&amp;rsquo;t seem fair to the good parts of 2016, and it&amp;rsquo;s no fun to be bombarded with bad news all the time. So instead of talking about the US election, Brexit, terrorist attacks, celebrity deaths, etc. I wanted to briefly share four of my favorite moments from this year. While reading about it might not be all that interesting or uplifting to you as it was for me writing it, I hope that you too can look back on your own year and see that maybe 2016 wasn&amp;rsquo;t too bad after all.&lt;/p&gt;
 
 &lt;h2 id=&#34;winter&#34;&gt;WINTER&lt;/h2&gt;
 
@@ -66,8 +64,7 @@
 
 &lt;p&gt;Speaking of next year, I can say that 2017 will be even more transformative: graduating college, becoming a &amp;ldquo;real adult&amp;rdquo;, and finding a job is going to be one helluva ride, and I&amp;rsquo;d be lying if I said I wasn&amp;rsquo;t a little scared. But you bet I&amp;rsquo;ll be ready for whatever is coming.&lt;/p&gt;
 
-&lt;p&gt;Happy new year everybody. I&amp;rsquo;ll see you on the other side.&lt;/p&gt;
-</description>
+&lt;p&gt;Happy new year everybody. I&amp;rsquo;ll see you on the other side.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,9 +73,8 @@
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/12/another-website-update/</guid>
-      <description>
-
-&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:&lt;/p&gt;
+      <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
+&lt;/p&gt;
 
 &lt;h3 id=&#34;visual-update&#34;&gt;Visual Update&lt;/h3&gt;
 
@@ -98,8 +94,7 @@
 &lt;li&gt;removed some more outdated/irrelevant posts, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;moved images to be loaded from a cloud rather than from source, speeding up webpage-loading time&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -108,9 +103,8 @@
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/08/website-update/</guid>
-      <description>
-
-&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.
+&lt;/p&gt;
 
 &lt;h3 id=&#34;switch-to-hugo&#34;&gt;Switch to Hugo&lt;/h3&gt;
 
@@ -126,8 +120,7 @@
 &lt;li&gt;removed some outdated/irrelevant posts and pages, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;updated images to fit CSS layout&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -136,7 +129,8 @@
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/01/the-revenant/</guid>
-      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.&lt;/p&gt;
+      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.
+&lt;/p&gt;
 
 &lt;p&gt;“The Revenant” is the survival story of Hugh Glass (Leonardo DiCaprio), a fur trapper who was betrayed by John Fitzgerald (Tom Hardy) and left by his companions for dead after being mauled by a bear. It’s a mesmerizing experience, and Alejandro Iñárritu captures the grizzly beauty of the unforgiving mountains and the cold winter.&lt;/p&gt;
 
@@ -154,8 +148,7 @@
 
 &lt;p&gt;Starring: Leonardo DiCaprio, Tom Hardy&lt;/p&gt;
 
-&lt;p&gt;2015, R, 156 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, R, 156 min&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -164,7 +157,7 @@
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/01/carol/</guid>
-      <description>&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film.&lt;/p&gt;
+      <description>&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film. &lt;/p&gt;
 
 &lt;p&gt;Based on Patricia Highsmith’s novel, “The Price of Salt”, “Carol” is a beautiful love story set in 1950’s New York that features two main characters. The first one we meet is Therese (Rooney Mara), a young, doll-like woman in her 20’s who works in the doll-section of the toy store, but aspires to be a photographer. The other is Carol (Cate Blanchett), a socialite, wife, and mother, who enters the toy store looking to buy a doll for her daughter. It’s in this simple store that the two women first meet and begin their relationship.&lt;/p&gt;
 
@@ -182,8 +175,7 @@
 
 &lt;p&gt;Starring: Cate Blanchett, Rooney Mara&lt;/p&gt;
 
-&lt;p&gt;2015, R, 118 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, R, 118 min&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -216,8 +208,7 @@
 
 &lt;p&gt;Starring: Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins&lt;/p&gt;
 
-&lt;p&gt;2015, R, 187 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, R, 187 min&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -242,8 +233,7 @@
 
 &lt;p&gt;Starring: Jennifer Lawrence, Robert De Niro, Bradley Cooper&lt;/p&gt;
 
-&lt;p&gt;2015, PG-13, 124 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, PG-13, 124 min&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -252,7 +242,8 @@
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2015/12/the-force-awakens/</guid>
-      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.&lt;/p&gt;
+      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.
+&lt;/p&gt;
 
 &lt;p&gt;The seventh installment of the famed franchise arrives three years after George Lucas sold Lucasfilm to Disney. The sale allowed Disney to take control of the story, and they decided to depart from Lucas&amp;rsquo; original outline. Sounds scary I know, but the fandom can rest assured as the Force is apparently strong with Disney, and they&amp;rsquo;ve created a brilliant space opera.&lt;/p&gt;
 
@@ -274,8 +265,7 @@
 
 &lt;p&gt;Starring: Daisy Ridley, John Boyega, Oscar Isaac, Adam Driver, Harrison Ford, Carrie Fisher, Mark Hamill&lt;/p&gt;
 
-&lt;p&gt;2015, PG-13, 135 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, PG-13, 135 min&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -284,13 +274,12 @@
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/</guid>
-      <description>
-
-&lt;p&gt;The basic format of my film reviews consist of 2 parts:&lt;/p&gt;
+      <description>&lt;p&gt;The basic format of my film reviews consist of 2 parts:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
-&lt;li&gt;A (very) short review&lt;/li&gt;
+&lt;li&gt;A (very) short review
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
@@ -325,8 +314,7 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
 
 &lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
-&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
-</description>
+&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -335,7 +323,7 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
       <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/resume/</guid>
-      <description>&lt;p&gt;Click &lt;a href=&#34;https://lilingkai.github.io/KevinLiResume.pdf&#34;&gt;here&lt;/a&gt; to see my official resume (Last Updated: January 14, 2017).&lt;/p&gt;
+      <description>&lt;p&gt;Click &lt;a href=&#34;https://lilingkai.github.io/KevinLiResume.pdf&#34;&gt;here&lt;/a&gt; to see my official resume (Last Updated: March 14, 2017).&lt;/p&gt;
 
 &lt;p&gt;To see my music qualifications, see below:&lt;/p&gt;
 

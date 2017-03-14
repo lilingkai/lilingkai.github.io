@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on Kevin Li</title>
-    <link>https://lilingkai.github.io/categories/guides/</link>
+    <link>https://lilingkai.github.io/categories/guides/index.xml</link>
     <description>Recent content in Guides on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,13 +14,12 @@
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/</guid>
-      <description>
-
-&lt;p&gt;The basic format of my film reviews consist of 2 parts:&lt;/p&gt;
+      <description>&lt;p&gt;The basic format of my film reviews consist of 2 parts:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
-&lt;li&gt;A (very) short review&lt;/li&gt;
+&lt;li&gt;A (very) short review
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
@@ -56,8 +54,7 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
 
 &lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
-&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
-</description>
+&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;</description>
     </item>
     
   </channel>

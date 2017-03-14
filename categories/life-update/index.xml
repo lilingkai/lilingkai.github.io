@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Update on Kevin Li</title>
-    <link>https://lilingkai.github.io/categories/life-update/</link>
+    <link>https://lilingkai.github.io/categories/life-update/index.xml</link>
     <description>Recent content in Life Update on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/categories/life-update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,9 +14,7 @@
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/12/my-best-moments-of-2016/</guid>
-      <description>
-
-&lt;p&gt;The new year is just a few hours away, and it seems that 2016 will be forever seen as quite the poop stain on the scrolls of history.  But that doesn&amp;rsquo;t seem fair to the good parts of 2016, and it&amp;rsquo;s no fun to be bombarded with bad news all the time. So instead of talking about the US election, Brexit, terrorist attacks, celebrity deaths, etc. I wanted to briefly share four of my favorite moments from this year. While reading about it might not be all that interesting or uplifting to you as it was for me writing it, I hope that you too can look back on your own year and see that maybe 2016 wasn&amp;rsquo;t too bad after all.&lt;/p&gt;
+      <description>&lt;p&gt;The new year is just a few hours away, and it seems that 2016 will be forever seen as quite the poop stain on the scrolls of history.  But that doesn&amp;rsquo;t seem fair to the good parts of 2016, and it&amp;rsquo;s no fun to be bombarded with bad news all the time. So instead of talking about the US election, Brexit, terrorist attacks, celebrity deaths, etc. I wanted to briefly share four of my favorite moments from this year. While reading about it might not be all that interesting or uplifting to you as it was for me writing it, I hope that you too can look back on your own year and see that maybe 2016 wasn&amp;rsquo;t too bad after all.&lt;/p&gt;
 
 &lt;h2 id=&#34;winter&#34;&gt;WINTER&lt;/h2&gt;
 
@@ -66,8 +63,7 @@
 
 &lt;p&gt;Speaking of next year, I can say that 2017 will be even more transformative: graduating college, becoming a &amp;ldquo;real adult&amp;rdquo;, and finding a job is going to be one helluva ride, and I&amp;rsquo;d be lying if I said I wasn&amp;rsquo;t a little scared. But you bet I&amp;rsquo;ll be ready for whatever is coming.&lt;/p&gt;
 
-&lt;p&gt;Happy new year everybody. I&amp;rsquo;ll see you on the other side.&lt;/p&gt;
-</description>
+&lt;p&gt;Happy new year everybody. I&amp;rsquo;ll see you on the other side.&lt;/p&gt;</description>
     </item>
     
   </channel>

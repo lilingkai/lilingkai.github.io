@@ -12,21 +12,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.19">
-    <title>Posts</title>
+    <title>David O. Russel</title>
     <meta name="author" content="Kevin Li">
     <meta name="keywords" content="">
 
     <link rel="icon" href="https://lilingkai.github.io/favicon.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://lilingkai.github.io/post/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://lilingkai.github.io/tags/david-o.-russel/index.xml">
     
 
     
     <meta name="description" content="Hugo tranquilpeak theme demo">
     <meta property="og:description" content="Hugo tranquilpeak theme demo">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="Posts">
-    <meta property="og:url" content="/post/">
+    <meta property="og:title" content="David O. Russel">
+    <meta property="og:url" content="/tags/david-o/index.-russel/">
     <meta property="og:site_name" content="Kevin Li">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Kevin Li">
@@ -204,15 +204,18 @@ ga('send', 'pageview');
 </nav>
 
       
+        
 
+      
       <div id="main" data-behavior="1"
         class="
                hasCoverMetaIn
                ">
-        <section class="postShorten-group main-content-wrap">
-          
-          
+        
+          <section class="postShorten-group main-content-wrap">
             
+            
+              
   
     
   
@@ -225,13 +228,13 @@ ga('send', 'pageview');
     
     <div class="postShorten-header">
       <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="https://lilingkai.github.io/2015/12/the-force-awakens/">
-          The Force Awakens
+        <a class="link-unstyled" href="https://lilingkai.github.io/2015/12/joy/">
+          Joy
         </a>
       </h1>
       <div class="post-meta">
-  <time itemprop="datePublished" datetime="2015-12-18T00:00:00Z">
-    Dec 18, 2015
+  <time itemprop="datePublished" datetime="2015-12-30T00:00:00Z">
+    Dec 30, 2015
   </time>
   
   
@@ -248,95 +251,27 @@ ga('send', 'pageview');
     </div>
     <div class="postShorten-excerpt" itemprop="articleBody">
       <p>
-        The most anticipated movie of the year, &ldquo;Star Wars: The Force Awakens&rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.
-
+        
         <br>
-        <a href="https://lilingkai.github.io/2015/12/the-force-awakens/" class="postShorten-excerpt_link link">Continue reading</a>
+        <a href="https://lilingkai.github.io/2015/12/joy/" class="postShorten-excerpt_link link">Continue reading</a>
         
       </p>
     </div>
   </div>
   
-    <a href="https://lilingkai.github.io/2015/12/the-force-awakens/">
+    <a href="https://lilingkai.github.io/2015/12/joy/">
       <div class="postShorten-thumbnailimg">
-        <img alt="" itemprop="image" src="http://res.cloudinary.com/lilingkai/image/upload/v1480470079/starwars_sbmgqh.jpg"/>
+        <img alt="" itemprop="image" src="http://res.cloudinary.com/lilingkai/image/upload/v1480470084/Joy_g8smuu.jpg"/>
       </div>
     </a>
   
 </article>
 
-          
             
-  
-    
-  
+            
 
-
-  
-
-<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/">
-          Guide to my Film Review Style
-        </a>
-      </h1>
-      <div class="post-meta">
-  <time itemprop="datePublished" datetime="2015-12-13T00:00:00Z">
-    Dec 13, 2015
-  </time>
-  
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://lilingkai.github.io/categories/guides">Guides</a>
-    
-  
-
-
-</div>
-
-    </div>
-    <div class="postShorten-excerpt" itemprop="articleBody">
-      <p>
+          </section>
         
-        <br>
-        <a href="https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/" class="postShorten-excerpt_link link">Continue reading</a>
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" itemprop="image" src="http://res.cloudinary.com/lilingkai/image/upload/v1480470081/bill_aqebcg.png"/>
-      </div>
-    </a>
-  
-</article>
-
-          
-          
-  <div class="pagination-bar">
-    <ul class="pagination">
-      
-        <li class="pagination-prev">
-          <a class="btn btn--default btn--small" href="https://lilingkai.github.io/post/">
-            <i class="fa fa-angle-left text-base icon-mr"></i>
-            <span>NEWER POSTS</span>
-          </a>
-        </li>
-      
-      
-      <li class="pagination-number">page 2 of 2</li>
-    </ul>
-  </div>
-
-
-        </section>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     Copyrights &copy; 2017 Kevin Li. All Rights Reserved.

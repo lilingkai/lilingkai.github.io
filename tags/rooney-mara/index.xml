@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rooney Mara on Kevin Li</title>
-    <link>https://lilingkai.github.io/tags/rooney-mara/</link>
+    <link>https://lilingkai.github.io/tags/rooney-mara/index.xml</link>
     <description>Recent content in Rooney Mara on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/tags/rooney-mara/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,7 +14,7 @@
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2016/01/carol/</guid>
-      <description>&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film.&lt;/p&gt;
+      <description>&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film. &lt;/p&gt;
 
 &lt;p&gt;Based on Patricia Highsmith’s novel, “The Price of Salt”, “Carol” is a beautiful love story set in 1950’s New York that features two main characters. The first one we meet is Therese (Rooney Mara), a young, doll-like woman in her 20’s who works in the doll-section of the toy store, but aspires to be a photographer. The other is Carol (Cate Blanchett), a socialite, wife, and mother, who enters the toy store looking to buy a doll for her daughter. It’s in this simple store that the two women first meet and begin their relationship.&lt;/p&gt;
 
@@ -33,8 +32,7 @@
 
 &lt;p&gt;Starring: Cate Blanchett, Rooney Mara&lt;/p&gt;
 
-&lt;p&gt;2015, R, 118 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, R, 118 min&lt;/p&gt;</description>
     </item>
     
   </channel>

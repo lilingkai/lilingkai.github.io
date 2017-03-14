@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Hamill on Kevin Li</title>
-    <link>https://lilingkai.github.io/tags/mark-hamill/</link>
+    <link>https://lilingkai.github.io/tags/mark-hamill/index.xml</link>
     <description>Recent content in Mark Hamill on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilingkai.github.io/tags/mark-hamill/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,7 +14,8 @@
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lilingkai.github.io/2015/12/the-force-awakens/</guid>
-      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.&lt;/p&gt;
+      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.
+&lt;/p&gt;
 
 &lt;p&gt;The seventh installment of the famed franchise arrives three years after George Lucas sold Lucasfilm to Disney. The sale allowed Disney to take control of the story, and they decided to depart from Lucas&amp;rsquo; original outline. Sounds scary I know, but the fandom can rest assured as the Force is apparently strong with Disney, and they&amp;rsquo;ve created a brilliant space opera.&lt;/p&gt;
 
@@ -37,8 +37,7 @@
 
 &lt;p&gt;Starring: Daisy Ridley, John Boyega, Oscar Isaac, Adam Driver, Harrison Ford, Carrie Fisher, Mark Hamill&lt;/p&gt;
 
-&lt;p&gt;2015, PG-13, 135 min&lt;/p&gt;
-</description>
+&lt;p&gt;2015, PG-13, 135 min&lt;/p&gt;</description>
     </item>
     
   </channel>
