@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carol on Kevin Li</title>
-    <link>https://example.org/tags/carol/index.xml</link>
+    <link>https://kevinwli.com/tags/carol/index.xml</link>
     <description>Recent content in Carol on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/carol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevinwli.com/tags/carol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Carol</title>
-      <link>https://example.org/post/2016-01-05-carol-review/</link>
+      <link>https://kevinwli.com/post/2016-01-05-carol-review/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/2016-01-05-carol-review/</guid>
+      <guid>https://kevinwli.com/post/2016-01-05-carol-review/</guid>
       <description>&lt;p&gt;I am not by any means an expert on the subject of love, but I believe “Carol” is one of the most realistic and intelligent portrayals of love that I’ve seen in film.&lt;/p&gt;
 
 &lt;p&gt;

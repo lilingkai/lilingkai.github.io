@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website Update on Kevin Li</title>
-    <link>https://example.org/categories/website-update/index.xml</link>
+    <link>https://kevinwli.com/categories/website-update/index.xml</link>
     <description>Recent content in Website Update on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevinwli.com/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Another Website Update</title>
-      <link>https://example.org/post/2016-12-14-another-website-update/</link>
+      <link>https://kevinwli.com/post/2016-12-14-another-website-update/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/2016-12-14-another-website-update/</guid>
+      <guid>https://kevinwli.com/post/2016-12-14-another-website-update/</guid>
       <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
 &lt;/p&gt;
 
@@ -40,10 +40,10 @@
     
     <item>
       <title>Website Update</title>
-      <link>https://example.org/post/2016-08-27-website-update/</link>
+      <link>https://kevinwli.com/post/2016-08-27-website-update/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/2016-08-27-website-update/</guid>
+      <guid>https://kevinwli.com/post/2016-08-27-website-update/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
