@@ -2,307 +2,302 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lilingkai.github.io/2016/12/my-best-moments-of-2016/</loc>
+    <loc>https://example.org/post/2016-12-31-my-best-moments-of-2016/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2016/12/another-website-update/</loc>
+    <loc>https://example.org/post/2016-12-14-another-website-update/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2016/08/website-update/</loc>
+    <loc>https://example.org/post/2016-08-27-website-update/</loc>
     <lastmod>2016-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2016/01/the-revenant/</loc>
+    <loc>https://example.org/post/2016-01-08-the-revenant-review/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2016/01/carol/</loc>
+    <loc>https://example.org/post/2016-01-05-carol-review/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2016/01/the-hateful-eight/</loc>
+    <loc>https://example.org/post/2016-01-02-the-hateful-eight-review/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2015/12/joy/</loc>
+    <loc>https://example.org/post/2015-12-30-joy-review/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2015/12/the-force-awakens/</loc>
+    <loc>https://example.org/post/2015-12-18-star-wars-the-force-awakens-review/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/</loc>
+    <loc>https://example.org/post/2015-12-13-guide-to-my-film-review-style/</loc>
     <lastmod>2015-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/resume/</loc>
-    <lastmod>2015-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lilingkai.github.io/tags/2015/</loc>
+    <loc>https://example.org/tags/2015/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/adam-driver/</loc>
+    <loc>https://example.org/tags/adam-driver/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/alejandro-gonz%C3%A1lez-i%C3%B1%C3%A1rritu/</loc>
+    <loc>https://example.org/tags/alejandro-gonz%C3%A1lez-i%C3%B1%C3%A1rritu/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/bradley-cooper/</loc>
+    <loc>https://example.org/tags/bradley-cooper/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/carol/</loc>
+    <loc>https://example.org/tags/carol/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/carrie-fisher/</loc>
+    <loc>https://example.org/tags/carrie-fisher/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/cate-blanchett/</loc>
+    <loc>https://example.org/tags/cate-blanchett/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/daisy-ridley/</loc>
+    <loc>https://example.org/tags/daisy-ridley/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/david-o/index.-russel/</loc>
+    <loc>https://example.org/tags/david-o/index.-russel/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/disney/</loc>
+    <loc>https://example.org/tags/disney/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/film/</loc>
+    <loc>https://example.org/tags/film/</loc>
     <lastmod>2015-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/film-review/</loc>
+    <loc>https://example.org/tags/film-review/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/categories/film-review/</loc>
+    <loc>https://example.org/categories/film-review/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/categories/guides/</loc>
+    <loc>https://example.org/categories/guides/</loc>
     <lastmod>2015-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/harrison-ford/</loc>
+    <loc>https://example.org/tags/harrison-ford/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/j.-j/index.-abrams/</loc>
+    <loc>https://example.org/tags/j.-j/index.-abrams/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/jennifer-jason-leigh/</loc>
+    <loc>https://example.org/tags/jennifer-jason-leigh/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/jennifer-lawrence/</loc>
+    <loc>https://example.org/tags/jennifer-lawrence/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/john-boyega/</loc>
+    <loc>https://example.org/tags/john-boyega/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/joy/</loc>
+    <loc>https://example.org/tags/joy/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/kurt-russell/</loc>
+    <loc>https://example.org/tags/kurt-russell/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/leonardo-dicaprio/</loc>
+    <loc>https://example.org/tags/leonardo-dicaprio/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/categories/life-update/</loc>
+    <loc>https://example.org/categories/life-update/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/mark-hamill/</loc>
+    <loc>https://example.org/tags/mark-hamill/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/oscar-isaac/</loc>
+    <loc>https://example.org/tags/oscar-isaac/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/pg-13/</loc>
+    <loc>https://example.org/tags/pg-13/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/post/</loc>
+    <loc>https://example.org/post/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/quentin-tarantino/</loc>
+    <loc>https://example.org/tags/quentin-tarantino/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/r/</loc>
+    <loc>https://example.org/tags/r/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/robert-de-niro/</loc>
+    <loc>https://example.org/tags/robert-de-niro/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/rooney-mara/</loc>
+    <loc>https://example.org/tags/rooney-mara/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/samuel-l/index.-jackson/</loc>
+    <loc>https://example.org/tags/samuel-l/index.-jackson/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/star-wars/</loc>
+    <loc>https://example.org/tags/star-wars/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/the-force-awakens/</loc>
+    <loc>https://example.org/tags/the-force-awakens/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/the-hateful-eight/</loc>
+    <loc>https://example.org/tags/the-hateful-eight/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/the-revenant/</loc>
+    <loc>https://example.org/tags/the-revenant/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/todd-haynes/</loc>
+    <loc>https://example.org/tags/todd-haynes/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/tom-hardy/</loc>
+    <loc>https://example.org/tags/tom-hardy/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/tags/walton-goggins/</loc>
+    <loc>https://example.org/tags/walton-goggins/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilingkai.github.io/categories/website-update/</loc>
+    <loc>https://example.org/categories/website-update/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

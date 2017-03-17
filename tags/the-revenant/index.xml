@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Revenant on Kevin Li</title>
-    <link>https://lilingkai.github.io/tags/the-revenant/index.xml</link>
+    <link>https://example.org/tags/the-revenant/index.xml</link>
     <description>Recent content in The Revenant on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://lilingkai.github.io/tags/the-revenant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/the-revenant/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Revenant</title>
-      <link>https://lilingkai.github.io/2016/01/the-revenant/</link>
+      <link>https://example.org/post/2016-01-08-the-revenant-review/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lilingkai.github.io/2016/01/the-revenant/</guid>
-      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.
-&lt;/p&gt;
+      <guid>https://example.org/post/2016-01-08-the-revenant-review/</guid>
+      <description>&lt;p&gt;While it’s not a film I particularly love, I admire “The Revenant” for its beauty, cinematography, and visceral depiction of the wild. This is a film that is meant to be seen on the big screen.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src=&#39;http://res.cloudinary.com/lilingkai/image/upload/v1480470086/revenant_pavmbz.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;“The Revenant” is the survival story of Hugh Glass (Leonardo DiCaprio), a fur trapper who was betrayed by John Fitzgerald (Tom Hardy) and left by his companions for dead after being mauled by a bear. It’s a mesmerizing experience, and Alejandro Iñárritu captures the grizzly beauty of the unforgiving mountains and the cold winter.&lt;/p&gt;
 

@@ -2,25 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on Kevin Li</title>
-    <link>https://lilingkai.github.io/categories/guides/index.xml</link>
+    <link>https://example.org/categories/guides/index.xml</link>
     <description>Recent content in Guides on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://lilingkai.github.io/categories/guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guide to my Film Review Style</title>
-      <link>https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/</link>
+      <link>https://example.org/post/2015-12-13-guide-to-my-film-review-style/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://lilingkai.github.io/2015/12/guide-to-my-film-review-style/</guid>
-      <description>&lt;p&gt;The basic format of my film reviews consist of 2 parts:&lt;/p&gt;
+      <guid>https://example.org/post/2015-12-13-guide-to-my-film-review-style/</guid>
+      <description>&lt;p&gt;The basic format of my film reviews consist of 2 parts:
 
-&lt;ul&gt;
-&lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
-&lt;li&gt;A (very) short review
-&lt;/li&gt;
-&lt;/ul&gt;
+- My rating on a 5 star scale
+- A (very) short review&lt;/p&gt;
 
 &lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
 
@@ -46,15 +43,15 @@ Thumbs up. Definitely good, very enjoyable, and not quite great. People are just
 
 &lt;p&gt;Absolutely terrible. There are few and often no merits to the film.&lt;/p&gt;
 
-&lt;p&gt;Now that&lt;/p&gt;
-
 &lt;h4 id=&#34;the-short-review&#34;&gt;The Short Review&lt;/h4&gt;
 
 &lt;p&gt;My ultimate goal with the short review is to showcase the film’s merits (or lack thereof) without giving too much of the plot away. If you are looking for detailed plot summaries, go look it up on the Wikipedia or IMDB (but that&amp;rsquo;s no fun).&lt;/p&gt;
 
 &lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
-&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;</description>
+&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#39;http://res.cloudinary.com/lilingkai/image/upload/v1480470081/bill_aqebcg.png&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website Update on Kevin Li</title>
-    <link>https://lilingkai.github.io/categories/website-update/index.xml</link>
+    <link>https://example.org/categories/website-update/index.xml</link>
     <description>Recent content in Website Update on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://lilingkai.github.io/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Another Website Update</title>
-      <link>https://lilingkai.github.io/2016/12/another-website-update/</link>
+      <link>https://example.org/post/2016-12-14-another-website-update/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lilingkai.github.io/2016/12/another-website-update/</guid>
+      <guid>https://example.org/post/2016-12-14-another-website-update/</guid>
       <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
 &lt;/p&gt;
 
@@ -21,7 +21,7 @@
 
 &lt;p&gt;In the first website update, my main concerns were converting my Ruby and Jekyll website/blog into a Hugo website. I decided upon a simpler and cleaner theme: &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt;. However, I decided that it was perhaps too simple for my taste, and decided to look to implement something that was still simple and clean, but also beautiful. I stumbled across &lt;a href=&#34;http://themes.gohugo.io/hugo-tranquilpeak-theme/&#34;&gt;Tranquilpeak&lt;/a&gt; and immediately cloned the theme from GitHub.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://res.cloudinary.com/lilingkai/image/upload/v1481776868/showcase_fypobq.png&#34; alt=&#34;Tranquilpeak&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;http://res.cloudinary.com/lilingkai/image/upload/v1481776868/showcase_fypobq.png&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the theme&amp;rsquo;s config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
 
@@ -40,12 +40,13 @@
     
     <item>
       <title>Website Update</title>
-      <link>https://lilingkai.github.io/2016/08/website-update/</link>
+      <link>https://example.org/post/2016-08-27-website-update/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lilingkai.github.io/2016/08/website-update/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.
-&lt;/p&gt;
+      <guid>https://example.org/post/2016-08-27-website-update/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;switch-to-hugo&#34;&gt;Switch to Hugo&lt;/h3&gt;
 
