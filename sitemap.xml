@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kevinwli.com/post/2017-03-17-website-update-version0dot3/</loc>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2016-12-31-my-best-moments-of-2016/</loc>
     <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kevinwli.com/post/2016-12-14-another-website-update/</loc>
+    <loc>http://kevinwli.com/post/2016-12-14-website-update-version0dot21/</loc>
     <lastmod>2016-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kevinwli.com/post/2016-08-27-website-update/</loc>
+    <loc>http://kevinwli.com/post/2016-08-27-website-update-version0dot2/</loc>
     <lastmod>2016-08-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,7 +178,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,7 +220,7 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -298,7 +303,7 @@
   
   <url>
     <loc>http://kevinwli.com/categories/website-update/</loc>
-    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
