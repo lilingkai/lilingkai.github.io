@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Update on Kevin Li</title>
-    <link>http://kevinwli.com/categories/life-update/index.xml</link>
-    <description>Recent content in Life Update on Kevin Li</description>
+    <title>Personal on Kevin Li</title>
+    <link>http://kevinwli.com/tags/personal/index.xml</link>
+    <description>Recent content in Personal on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kevinwli.com/categories/life-update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kevinwli.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Winter: 3 Things I Learned</title>

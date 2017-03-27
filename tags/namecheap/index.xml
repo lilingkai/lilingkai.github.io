@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namecheap on Kevin Li</title>
+    <link>http://kevinwli.com/tags/namecheap/index.xml</link>
+    <description>Recent content in Namecheap on Kevin Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://kevinwli.com/tags/namecheap/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Website Update: Version 0.3</title>
+      <link>http://kevinwli.com/post/2017-03-17-website-update-version0dot3/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/post/2017-03-17-website-update-version0dot3/</guid>
+      <description>&lt;p&gt;Another quarter of classes has come and passed, and yet another update has gone live. Take a look at the shortlist of changes:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;New URL&lt;/li&gt;
+&lt;li&gt;New Theme&lt;/li&gt;
+&lt;li&gt;New Portfolio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;kevinwli-com&#34;&gt;kevinwli.com&lt;/h3&gt;
+
+&lt;p&gt;Yes, there is a new url now. No offense Github, but I was getting sick of the &amp;ldquo;lilingkai.github.io&amp;rdquo;, so I went on &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;Namecheap&lt;/a&gt; in search for a custom domain name. Unfortunately, kevinli.com is taken and the user is selling it for a very expensive price ($500 minimum offer!), so I elected to go with kevinwli.com for a more reasonable $10/year. Setting up the custom domain was a piece of cake as both Github Pages and Namecheap had step by step tutorials that were easy to follow.&lt;/p&gt;
+
+&lt;h3 id=&#34;strata-theme&#34;&gt;Strata Theme&lt;/h3&gt;
+
+&lt;p&gt;The old Tranquilpeak theme wasn&amp;rsquo;t compatible with Hugo 0.19, and I wanted to have a nice way of displaying all the noteworthy projects I&amp;rsquo;ve done, so I figured it was time for another theme update. &lt;a href=&#34;http://themes.gohugo.io/strata/&#34;&gt;Strata&lt;/a&gt; had the closest thing to what I was looking for, except the default template was set up for showing off photography portfolios. After changing fonts and some colors, I repurposed the picture portfolio boxes to link directly to my projects. Which leads into the next point&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;project-portfolio&#34;&gt;Project Portfolio&lt;/h3&gt;
+
+&lt;p&gt;As you can see, on the home page, there is now a section that displays my projects. Please feel free to check those out. I&amp;rsquo;ve added some pretty cool ones, particularly &lt;a href=&#34;http://harmoniousmonk.info/&#34;&gt;Harmonious Monk&lt;/a&gt;, which is an automatic jazz harmonizer that I just made this past quarter with two teammates.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
+
+&lt;p&gt;You can expect a quarterly report of sorts coming within the next few days (by the end of spring break at the latest).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

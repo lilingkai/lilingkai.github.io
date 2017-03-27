@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kevinwli.com/post/2017-03-26-winter-3-things-I-learned/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2017-03-17-website-update-version0dot3/</loc>
     <lastmod>2017-03-17T00:00:00+00:00</lastmod>
   </url>
@@ -54,6 +59,18 @@
   <url>
     <loc>http://kevinwli.com/tags/2015/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/2016/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/2017/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,6 +164,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/hugo/</loc>
+    <lastmod>2016-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/j.-j/index.-abrams/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -178,6 +201,12 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/kevinwli/</loc>
     <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -196,7 +225,7 @@
   
   <url>
     <loc>http://kevinwli.com/categories/life-update/</loc>
-    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,8 +236,20 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/namecheap/</loc>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/oscar-isaac/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/personal/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,7 +261,7 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,6 +274,18 @@
   <url>
     <loc>http://kevinwli.com/tags/r/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/redlounge/</loc>
+    <lastmod>2016-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/reflection/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,6 +310,12 @@
   <url>
     <loc>http://kevinwli.com/tags/star-wars/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/strata/</loc>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -296,6 +355,24 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/tranquilpeak/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/update/</loc>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/url/</loc>
+    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/walton-goggins/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -304,6 +381,12 @@
   <url>
     <loc>http://kevinwli.com/categories/website-update/</loc>
     <lastmod>2017-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/winter/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
