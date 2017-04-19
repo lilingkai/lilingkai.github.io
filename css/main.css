@@ -2462,7 +2462,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../images/banff.jpg");
+		background-image: url("images/overlay.png"), url("https://res.cloudinary.com/lilingkai/image/upload/s--K8bd-hwu--/c_scale,q_jpegmini:1,w_1600/v1483224427/IMG_1970_lhdlwj.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
@@ -2928,7 +2928,7 @@
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../images/banff.jpg");
+				background-image: url("images/overlay.png"), url("https://res.cloudinary.com/lilingkai/image/upload/s--K8bd-hwu--/c_scale,q_jpegmini:1,w_1600/v1483224427/IMG_1970_lhdlwj.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;

@@ -54,7 +54,7 @@
 
 &lt;p&gt;In the first website update, my main concerns were converting my Ruby and Jekyll website/blog into a Hugo website. I decided upon a simpler and cleaner theme: &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt;. However, I decided that it was perhaps too simple for my taste, and decided to look to implement something that was still simple and clean, but also beautiful. I stumbled across &lt;a href=&#34;http://themes.gohugo.io/hugo-tranquilpeak-theme/&#34;&gt;Tranquilpeak&lt;/a&gt; and immediately cloned the theme from GitHub.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#39;http://res.cloudinary.com/lilingkai/image/upload/v1481776868/showcase_fypobq.png&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--eUfxNaJo--/c_scale,q_jpegmini:1,w_1600/v1481776868/showcase_fypobq.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the theme&amp;rsquo;s config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
 
