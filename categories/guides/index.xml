@@ -9,42 +9,21 @@
     <atom:link href="http://kevinwli.com/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kevin&#39;s Film Review Style Guide</title>
-      <link>http://kevinwli.com/post/2015-12-13-guide-to-my-film-review-style/</link>
-      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <title>Kevin&#39;s Film Review Style Guide 1.1</title>
+      <link>http://kevinwli.com/post/2017-06-06-guide-to-my-film-review-style-1dot1/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://kevinwli.com/post/2015-12-13-guide-to-my-film-review-style/</guid>
-      <description>&lt;p&gt;The basic format of my film reviews consist of 2 parts:
-&lt;/p&gt;
+      <guid>http://kevinwli.com/post/2017-06-06-guide-to-my-film-review-style-1dot1/</guid>
+      <description>
+
+&lt;p&gt;I figured this guide could use a small update to make it a bit easier to tell which films are the ones I really love. I also wanted to add a link to all my ratings on IMDb and briefly explain how my rating system translates to the rating system on IMDb. Otherwise, for the most part, the core of the system has remained the same.
+&lt;!--more --&gt;
+The basic format of my film reviews consists of 2 parts:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
 &lt;li&gt;A (very) short review&lt;/li&gt;
+&lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
-
-&lt;p&gt;The system is quite similar to the “Little Man System”, which was conceived by Mick LaSalle, film critic for the San Francisco Chronicle.&lt;/p&gt;
-
-&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt; 
-
-&lt;p&gt;This rating is reserved for what I believe are great examples of film from that genre or time period.&lt;/p&gt;
-
-&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt; 
-
-&lt;p&gt;Thumbs up. Definitely good, very enjoyable, and not quite great. People are justified in buying these kinds of films for their movie collection.&lt;/p&gt;
-
-&lt;h3&gt;&amp;#9733 &amp;#9733 &amp;#9733&lt;/h3&gt; 
-
-&lt;p&gt;RTR, which stands for read the review. A 3-star rating is a bit ambiguous; it could be an almost-good-but-not-quite film or an almost-bad-but-not-quite film. In general, I give it to films that are decent, but not exceptional. As LaSalle elaborates, “If it doesn&amp;rsquo;t transcend the genre, it will mean that someone not drawn to the genre wouldn&amp;rsquo;t like it.”&lt;/p&gt;
-
-&lt;h3&gt;&amp;#9733 &amp;#9733&lt;/h3&gt; 
-
-&lt;p&gt;Thumbs down. Definitely bad and not worth seeing. These films usually have some redeeming qualities, but not nearly enough.&lt;/p&gt;
-
-&lt;h3&gt;&amp;#9733&lt;/h3&gt; 
-
-&lt;p&gt;Absolutely terrible. There are few and often no merits to the film.&lt;/p&gt;
 
 &lt;h4 id=&#34;the-short-review&#34;&gt;The Short Review&lt;/h4&gt;
 
@@ -52,9 +31,81 @@
 
 &lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
-&lt;p&gt;I hope that my thoughts on the film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
+&lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--ZErwaKvG--/q_jpegmini:1/v1480470081/bill_aqebcg.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;The system is quite similar to the “Little Man System”, which was conceived by Mick LaSalle, film critic for the San Francisco Chronicle. Please note that I consider the film&amp;rsquo;s genre and intended audience when I assign ratings.&lt;/p&gt;
+
+&lt;h3&gt;&amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733;&lt;/h3&gt; 
+
+&lt;p&gt;You should definitely watch this film. This rating is reserved for what I believe are great examples of film (with their targeted audience and genre in mind!).&lt;/p&gt;
+
+&lt;h3&gt;&amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733;&lt;/h3&gt; 
+
+&lt;p&gt;Thumbs up. Definitely good, enjoyable, and not quite great.&lt;/p&gt;
+
+&lt;h3&gt;&amp;#9733; &amp;#9733; &amp;#9733;&lt;/h3&gt; 
+
+&lt;p&gt;This middle ground is pretty ambiguous. Either the film was almost good, but something didn&amp;rsquo;t work, or it was almost bad, but it has it&amp;rsquo;s moments. It&amp;rsquo;s a wide range, but in general I give to the film as a cautiously positive rating. As LaSalle elaborates, “If it doesn&amp;rsquo;t transcend the genre, it will mean that someone not drawn to the genre wouldn&amp;rsquo;t like it.”&lt;/p&gt;
+
+&lt;h3&gt;&amp;#9733; &amp;#9733;&lt;/h3&gt; 
+
+&lt;p&gt;Thumbs down. Definitely bad and not worth seeing. These films usually have some redeeming qualities, but not nearly enough.&lt;/p&gt;
+
+&lt;h3&gt;&amp;#9733;&lt;/h3&gt; 
+
+&lt;p&gt;You almost have to be trying to be this bad. But hey, if that&amp;rsquo;s you&amp;rsquo;re style&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&amp;#10084;&lt;/h3&gt;
+In addition to the stars, I&amp;rsquo;ve added a heart symbol to denote films I love. These will be tacked on below the rating, along with a very short explanation of why I personally love that film.&lt;/p&gt;
+
+&lt;h4 id=&#34;my-imdb-ratings&#34;&gt;My IMDb Ratings&lt;/h4&gt;
+
+&lt;p&gt;Sometimes, I don&amp;rsquo;t have a ton of time to craft a review for a film, but I always give a rating for films I watch on IMDb. However, since IMDb uses a 10-star system, I wanted to give a brief explanation of how my rating system translates to the IMDb system.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;IMDb System&lt;/th&gt;
+&lt;th&gt;My System&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&amp;#9733; &amp;#9733; &amp;#9733; &lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&amp;#9733; &amp;#9733;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;p&gt;&amp;#9733;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;With each of the tiers, if I have given a heart to the film, you will find that I have added one IMDb star i.e. a 5-star film with a heart = 10, a 4-star film with a heart = 8, etc.&lt;/p&gt;
+
+&lt;p&gt;And finally, here&amp;rsquo;s a link to my &lt;a href=&#34;http://www.imdb.com/user/ur34370327/ratings?start=1&amp;amp;view=detail&amp;amp;sort=release_date_us:desc&amp;amp;defaults=1&amp;amp;my_ratings=restrict&amp;amp;defaults=1&amp;amp;my_ratings=restrict&amp;amp;scb=0.6013374944890184&#34;&gt;IMDb ratings&lt;/a&gt; in case you want to check them out.&lt;/p&gt;
+
+&lt;p&gt;I hope that my thoughts on film are at least somewhat helpful and insightful, and that you enjoy the world of film as much as I do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--ZErwaKvG--/q_jpegmini:1/v1480470081/bill_aqebcg.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
