@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Film on Kevin Li</title>
-    <link>http://kevinwli.com/tags/film/index.xml</link>
+    <link>http://kevinwli.com/tags/film/</link>
     <description>Recent content in Film on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kevinwli.com/tags/film/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -25,13 +26,13 @@ The basic format of my film reviews consists of 2 parts:&lt;/p&gt;
 &lt;li&gt;My rating on a 5 star scale&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;the-short-review&#34;&gt;The Short Review&lt;/h4&gt;
+&lt;h4 id=&#34;the-short-review:7d0b351287b1c0b9c614ad3d82468380&#34;&gt;The Short Review&lt;/h4&gt;
 
 &lt;p&gt;My ultimate goal with the short review is to showcase the film’s merits (or lack thereof) without giving too much of the plot away. If you are looking for detailed plot summaries, go look it up on the Wikipedia or IMDB (but that&amp;rsquo;s no fun).&lt;/p&gt;
 
 &lt;p&gt;These days, people mostly skip the reviews and go straight to the ratings anyways. So for those of you who do take time out of your busy lives to read reviews, I try to make it easier by making my reviews short and simple. Many of them are 500 words or less.&lt;/p&gt;
 
-&lt;h4 id=&#34;the-5-star-rating-system&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
+&lt;h4 id=&#34;the-5-star-rating-system:7d0b351287b1c0b9c614ad3d82468380&#34;&gt;The 5 Star Rating System&lt;/h4&gt;
 
 &lt;p&gt;The system is quite similar to the “Little Man System”, which was conceived by Mick LaSalle, film critic for the San Francisco Chronicle. Please note that I consider the film&amp;rsquo;s genre and intended audience when I assign ratings.&lt;/p&gt;
 
@@ -58,7 +59,7 @@ The basic format of my film reviews consists of 2 parts:&lt;/p&gt;
 &lt;p&gt;&lt;h3&gt;&amp;#10084;&amp;#xFE0E;&lt;/h3&gt;
 In addition to the stars, I&amp;rsquo;ve added a heart symbol to denote films I love. These will be tacked on below the rating, along with a very short explanation of why I personally love that film.&lt;/p&gt;
 
-&lt;h4 id=&#34;my-imdb-ratings&#34;&gt;My IMDb Ratings&lt;/h4&gt;
+&lt;h4 id=&#34;my-imdb-ratings:7d0b351287b1c0b9c614ad3d82468380&#34;&gt;My IMDb Ratings&lt;/h4&gt;
 
 &lt;p&gt;Sometimes, I don&amp;rsquo;t have a ton of time to craft a review for a film, but I always give a rating for films I watch on IMDb. However, since IMDb uses a 10-star system, I wanted to give a brief explanation of how my rating system translates to the IMDb system.&lt;/p&gt;
 

@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website Update on Kevin Li</title>
-    <link>http://kevinwli.com/categories/website-update/index.xml</link>
+    <link>http://kevinwli.com/categories/website-update/</link>
     <description>Recent content in Website Update on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 17 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kevinwli.com/categories/website-update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -14,9 +15,9 @@
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2017-03-17-website-update-version0dot3/</guid>
-      <description>&lt;p&gt;Another quarter of classes has come and passed, and yet another update has gone live. Take a look at the shortlist of changes:&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Another quarter of classes has come and passed, and yet another update has gone live. Take a look at the shortlist of changes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;New URL&lt;/li&gt;
@@ -24,21 +25,22 @@
 &lt;li&gt;New Portfolio&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;kevinwli-com&#34;&gt;kevinwli.com&lt;/h3&gt;
+&lt;h3 id=&#34;kevinwli-com:d1c8a4dfb0772fee76abf8b3aab81097&#34;&gt;kevinwli.com&lt;/h3&gt;
 
 &lt;p&gt;Yes, there is a new url now. No offense Github, but I was getting sick of the &amp;ldquo;lilingkai.github.io&amp;rdquo;, so I went on &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;Namecheap&lt;/a&gt; in search for a custom domain name. Unfortunately, kevinli.com is taken and the user is selling it for a very expensive price ($500 minimum offer!), so I elected to go with kevinwli.com for a more reasonable $10/year. Setting up the custom domain was a piece of cake as both Github Pages and Namecheap had step by step tutorials that were easy to follow.&lt;/p&gt;
 
-&lt;h3 id=&#34;strata-theme&#34;&gt;Strata Theme&lt;/h3&gt;
+&lt;h3 id=&#34;strata-theme:d1c8a4dfb0772fee76abf8b3aab81097&#34;&gt;Strata Theme&lt;/h3&gt;
 
 &lt;p&gt;The old Tranquilpeak theme wasn&amp;rsquo;t compatible with Hugo 0.19, and I wanted to have a nice way of displaying all the noteworthy projects I&amp;rsquo;ve done, so I figured it was time for another theme update. &lt;a href=&#34;http://themes.gohugo.io/strata/&#34;&gt;Strata&lt;/a&gt; had the closest thing to what I was looking for, except the default template was set up for showing off photography portfolios. After changing fonts and some colors, I repurposed the picture portfolio boxes to link directly to my projects. Which leads into the next point&amp;hellip;&lt;/p&gt;
 
-&lt;h3 id=&#34;project-portfolio&#34;&gt;Project Portfolio&lt;/h3&gt;
+&lt;h3 id=&#34;project-portfolio:d1c8a4dfb0772fee76abf8b3aab81097&#34;&gt;Project Portfolio&lt;/h3&gt;
 
 &lt;p&gt;As you can see, on the home page, there is now a section that displays my projects. Please feel free to check those out. I&amp;rsquo;ve added some pretty cool ones, particularly &lt;a href=&#34;http://harmoniousmonk.info/&#34;&gt;Harmonious Monk&lt;/a&gt;, which is an automatic jazz harmonizer that I just made this past quarter with two teammates.&lt;/p&gt;
 
-&lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
+&lt;h3 id=&#34;what-s-next:d1c8a4dfb0772fee76abf8b3aab81097&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
 
-&lt;p&gt;You can expect a quarterly report of sorts coming within the next few days (by the end of spring break at the latest).&lt;/p&gt;</description>
+&lt;p&gt;You can expect a quarterly report of sorts coming within the next few days (by the end of spring break at the latest).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -47,10 +49,11 @@
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2016-12-14-website-update-version0dot21/</guid>
-      <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
-&lt;/p&gt;
+      <description>
 
-&lt;h3 id=&#34;visual-update&#34;&gt;Visual Update&lt;/h3&gt;
+&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:&lt;/p&gt;
+
+&lt;h3 id=&#34;visual-update:662430165b8747b53f1c6520a4a4f2e4&#34;&gt;Visual Update&lt;/h3&gt;
 
 &lt;p&gt;In the first website update, my main concerns were converting my Ruby and Jekyll website/blog into a Hugo website. I decided upon a simpler and cleaner theme: &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt;. However, I decided that it was perhaps too simple for my taste, and decided to look to implement something that was still simple and clean, but also beautiful. I stumbled across &lt;a href=&#34;http://themes.gohugo.io/hugo-tranquilpeak-theme/&#34;&gt;Tranquilpeak&lt;/a&gt; and immediately cloned the theme from GitHub.&lt;/p&gt;
 
@@ -58,17 +61,18 @@
 
 &lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the theme&amp;rsquo;s config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
 
-&lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
+&lt;h3 id=&#34;what-s-next:662430165b8747b53f1c6520a4a4f2e4&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
 
 &lt;p&gt;Moving forward, I&amp;rsquo;d love to write blog posts and reviews more often, but as a 4th year undergrad, schoolwork and job search tend to take up a lot of my time. At this moment, I&amp;rsquo;ve not decided on any set plan, but I can promise that I will be writing a reflection of 2016 and posting that here before the end of the year. There, now hold me to it!&lt;/p&gt;
 
-&lt;h3 id=&#34;other-changes-updates&#34;&gt;Other Changes &amp;amp; Updates&lt;/h3&gt;
+&lt;h3 id=&#34;other-changes-updates:662430165b8747b53f1c6520a4a4f2e4&#34;&gt;Other Changes &amp;amp; Updates&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;removed some more outdated/irrelevant posts, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;moved images to be loaded from a cloud rather than from source, speeding up webpage-loading time&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -77,25 +81,26 @@
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2016-08-27-website-update-version0dot2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been awhile since I updated my site, so when I came back, I decided to re-design/re-build it.&lt;/p&gt;
 
-&lt;h3 id=&#34;switch-to-hugo&#34;&gt;Switch to Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;switch-to-hugo:164d0385811044db7123b96fa1a14992&#34;&gt;Switch to Hugo&lt;/h3&gt;
 
 &lt;p&gt;Mostly due to the unfortunate fact that my last laptop died and I didn&amp;rsquo;t want to go through the pain of configuring Ruby and Jekyll on a new Windows machine. And it&amp;rsquo;s good to dust off and freshen up things every once in awhile. After a quick research session, I found &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a static website generator built with the ever-rising Go language. Hugo is pretty easy to pick up, very fast, and nice and compatible for all OS&amp;rsquo;s (unlike Ruby and Jekyll).&lt;/p&gt;
 
-&lt;h3 id=&#34;new-look&#34;&gt;New Look&lt;/h3&gt;
+&lt;h3 id=&#34;new-look:164d0385811044db7123b96fa1a14992&#34;&gt;New Look&lt;/h3&gt;
 
 &lt;p&gt;With a new static generator selected, I wanted to find a new theme. My old theme (Casper for Ghost) was fine, but I wanted something simpler and cleaner. I ended up choosing this &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt; theme, which has been pretty customizable. The documentation for it doesn&amp;rsquo;t explain everything, but once you get comfortable with how Hugo works, it&amp;rsquo;s pretty simple to figure out how to get things to look just the way you want them.&lt;/p&gt;
 
-&lt;h3 id=&#34;other-changes-updates&#34;&gt;Other Changes &amp;amp; Updates&lt;/h3&gt;
+&lt;h3 id=&#34;other-changes-updates:164d0385811044db7123b96fa1a14992&#34;&gt;Other Changes &amp;amp; Updates&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;removed some outdated/irrelevant posts and pages, including some older film reviews&lt;/li&gt;
 &lt;li&gt;updated my resume&lt;/li&gt;
 &lt;li&gt;updated images to fit CSS layout&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

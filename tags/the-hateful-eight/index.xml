@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Hateful Eight on Kevin Li</title>
-    <link>http://kevinwli.com/tags/the-hateful-eight/index.xml</link>
+    <link>http://kevinwli.com/tags/the-hateful-eight/</link>
     <description>Recent content in The Hateful Eight on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kevinwli.com/tags/the-hateful-eight/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,9 +17,9 @@
       <guid>http://kevinwli.com/post/2016-01-02-the-hateful-eight-review/</guid>
       <description>&lt;p&gt;Quentin Tarantino’s eighth film, “The Hateful Eight”, is some sort of twisted game of Clue in the style of a Western, set ten or so years after the American Civil War. Add a stellar cast and a beautiful original score written by Ennio Morricone and we’ve got ourselves a good movie that’s entertaining as hell.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/v1480470082/hateful-eight_kgqjoq.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;
+&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/v1480470082/hateful-eight_kgqjoq.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
-This film is very different from other Tarantino films, which featured clear protagonists; the characters in “The Hateful Eight” are more complex and certainly more hateful. We’re not sure who to root for since all of them are untrustworthy, making it all the more exciting to watch.&lt;/p&gt;
+&lt;p&gt;This film is very different from other Tarantino films, which featured clear protagonists; the characters in “The Hateful Eight” are more complex and certainly more hateful. We’re not sure who to root for since all of them are untrustworthy, making it all the more exciting to watch.&lt;/p&gt;
 
 &lt;p&gt;However, the film does lack some depth. While “Inglorious” and “Django” were set in significant historical events that gave them a sense of something greater than themselves, “The Hateful Eight” seems to be more of a gruesome celebration of the story itself. Still, it’s an impressive story, even if it might not mean anything in the end.&lt;/p&gt;
 
@@ -40,7 +41,8 @@ This film is very different from other Tarantino films, which featured clear pro
 
 &lt;p&gt;Starring: Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins&lt;/p&gt;
 
-&lt;p&gt;2015, R, 187 min&lt;/p&gt;</description>
+&lt;p&gt;2015, R, 187 min&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David O. Russel on Kevin Li</title>
-    <link>http://kevinwli.com/tags/david-o.-russel/index.xml</link>
+    <link>http://kevinwli.com/tags/david-o/index.-russel/</link>
     <description>Recent content in David O. Russel on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kevinwli.com/tags/david-o.-russel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,8 +17,7 @@
       <guid>http://kevinwli.com/post/2015-12-30-joy-review/</guid>
       <description>&lt;p&gt;As the film celebrates strong matriarchal characters and the power of determination, I can’t help but wish “Joy” was better.&lt;/p&gt;
 
-&lt;p&gt;
-&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--U4diYn5P--/c_scale,q_jpegmini:1,w_1600/v1480470084/Joy_g8smuu.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--U4diYn5P--/c_scale,q_jpegmini:1,w_1600/v1480470084/Joy_g8smuu.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This is David O. Russell’s third film in a row featuring the talented Jennifer Lawrence, but unlike “Silver Lining’s Playbook” and “American Hustle”, “Joy” is a bumpy ride that isn’t always enjoyable.&lt;/p&gt;
 
@@ -35,7 +35,8 @@
 
 &lt;p&gt;Starring: Jennifer Lawrence, Robert De Niro, Bradley Cooper&lt;/p&gt;
 
-&lt;p&gt;2015, PG-13, 124 min&lt;/p&gt;</description>
+&lt;p&gt;2015, PG-13, 124 min&lt;/p&gt;
+</description>
     </item>
     
   </channel>
