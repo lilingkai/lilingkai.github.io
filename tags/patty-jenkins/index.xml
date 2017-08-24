@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patty Jenkins on Kevin Li</title>
-    <link>http://kevinwli.com/tags/patty-jenkins/</link>
+    <link>http://kevinwli.com/tags/patty-jenkins/index.xml</link>
     <description>Recent content in Patty Jenkins on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://kevinwli.com/tags/patty-jenkins/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,7 +16,8 @@
       <guid>http://kevinwli.com/post/2017-06-06-wonder-woman-review/</guid>
       <description>&lt;p&gt;Let me just say that while many genres have my sympathy, the superhero genre is usually not one of them. With the exception of Nolan&amp;rsquo;s Batman films, I find many superhero movies to be rather lukewarm with their predictable outcomes and action scenes for the sake of action. However, Wonder Woman blew away all of my expectations and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/v1496803348/721360_v4mirg.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/v1496803348/721360_v4mirg.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;The film begins on Themyscira, a paradise island inhabited by the Amazons that was hidden away by Zeus from the god of war, Ares. One day, a soldier crash lands his plane on the island, quickly followed by German ships. The soldier is Steve Trevor (Chris Pine), and it&amp;rsquo;s World War I. Trevor has to get back to Allied terrority to deliver intel that could help stop the war, and Diana (Gal Gadot) joins him, which thrusts her into the world of men.&lt;/p&gt;
 
@@ -41,8 +41,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&amp;#10084;&amp;#xFE0E; : I think I&#39;m in love with Gal Gadot. &lt;br&gt; I&#39;m (half) joking but in all seriousness, this woman is almost too beautiful, in an almost spell-bounding kind of way that captures the attention of men and woman alike. Patty Jenkins knows what she&#39;s doing when she&#39;s giving us all those gratuitous close-up face shots of Gal. &lt;/p&gt;  
-</description>
+&lt;p&gt;&amp;#10084;&amp;#xFE0E; : I think I&#39;m in love with Gal Gadot. &lt;br&gt; I&#39;m (half) joking but in all seriousness, this woman is almost too beautiful, in an almost spell-bounding kind of way that captures the attention of men and woman alike. Patty Jenkins knows what she&#39;s doing when she&#39;s giving us all those gratuitous close-up face shots of Gal. &lt;/p&gt;</description>
     </item>
     
   </channel>
