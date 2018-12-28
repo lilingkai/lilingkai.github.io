@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kevinwli.com/post/2018-01-29-behind-the-scenes-asia-travel-vlog/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kevinwli.com/post/2017-06-06-wonder-woman-review/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -88,12 +83,6 @@
   </url>
   
   <url>
-    <loc>http://kevinwli.com/categories/bts/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kevinwli.com/tags/carol/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -113,7 +102,6 @@
   
   <url>
     <loc>http://kevinwli.com/categories/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,7 +197,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,12 +244,6 @@
   </url>
   
   <url>
-    <loc>http://kevinwli.com/tags/personal/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kevinwli.com/tags/pg-13/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -269,7 +251,7 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -364,12 +346,6 @@
   </url>
   
   <url>
-    <loc>http://kevinwli.com/tags/travel/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kevinwli.com/tags/update/</loc>
     <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -396,12 +372,6 @@
   <url>
     <loc>http://kevinwli.com/tags/wonder-woman/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kevinwli.com/categories/youtube/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
