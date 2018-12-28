@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kevin Li</title>
+    <link>http://kevinwli.com/categories/</link>
+    <description>Recent content in Categories on Kevin Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kevinwli.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bts</title>
+      <link>http://kevinwli.com/categories/bts/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/categories/bts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Film Review</title>
+      <link>http://kevinwli.com/categories/film-review/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/categories/film-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>http://kevinwli.com/categories/guides/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/categories/guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website Update</title>
+      <link>http://kevinwli.com/categories/website-update/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/categories/website-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>http://kevinwli.com/categories/youtube/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kevinwli.com/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

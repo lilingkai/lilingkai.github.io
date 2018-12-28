@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tranquilpeak on Kevin Li</title>
-    <link>http://kevinwli.com/tags/tranquilpeak/index.xml</link>
+    <link>http://kevinwli.com/tags/tranquilpeak/</link>
     <description>Recent content in Tranquilpeak on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kevinwli.com/tags/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kevinwli.com/tags/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Website Update: Version 0.21</title>
@@ -14,28 +17,7 @@
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2016-12-14-website-update-version0dot21/</guid>
-      <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:
-&lt;/p&gt;
-
-&lt;h3 id=&#34;visual-update&#34;&gt;Visual Update&lt;/h3&gt;
-
-&lt;p&gt;In the first website update, my main concerns were converting my Ruby and Jekyll website/blog into a Hugo website. I decided upon a simpler and cleaner theme: &lt;a href=&#34;http://themes.gohugo.io/redlounge/&#34;&gt;Redlounge&lt;/a&gt;. However, I decided that it was perhaps too simple for my taste, and decided to look to implement something that was still simple and clean, but also beautiful. I stumbled across &lt;a href=&#34;http://themes.gohugo.io/hugo-tranquilpeak-theme/&#34;&gt;Tranquilpeak&lt;/a&gt; and immediately cloned the theme from GitHub.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--eUfxNaJo--/c_scale,q_jpegmini:1,w_1600/v1481776868/showcase_fypobq.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re familiar with Hugo and Markdown, changing themes is relatively simple. Essentially everything is laid out for you in the theme&amp;rsquo;s config file. After customizing the config.toml file the way I wanted it, I just had to update all my posts&amp;rsquo; headers with YAML formatting, and then it was all ready to go!&lt;/p&gt;
-
-&lt;h3 id=&#34;what-s-next&#34;&gt;What&amp;rsquo;s Next?&lt;/h3&gt;
-
-&lt;p&gt;Moving forward, I&amp;rsquo;d love to write blog posts and reviews more often, but as a 4th year undergrad, schoolwork and job search tend to take up a lot of my time. At this moment, I&amp;rsquo;ve not decided on any set plan, but I can promise that I will be writing a reflection of 2016 and posting that here before the end of the year. There, now hold me to it!&lt;/p&gt;
-
-&lt;h3 id=&#34;other-changes-updates&#34;&gt;Other Changes &amp;amp; Updates&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;removed some more outdated/irrelevant posts, including some older film reviews&lt;/li&gt;
-&lt;li&gt;updated my resume&lt;/li&gt;
-&lt;li&gt;moved images to be loaded from a cloud rather than from source, speeding up webpage-loading time&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;With my return home from another gruelling quarter of classes, I&amp;rsquo;ve revamped the look of my website once more. Here&amp;rsquo;s a quick &amp;ldquo;patch notes&amp;rdquo; if you will:&lt;/p&gt;</description>
     </item>
     
   </channel>

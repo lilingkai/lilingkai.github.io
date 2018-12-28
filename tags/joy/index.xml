@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joy on Kevin Li</title>
-    <link>http://kevinwli.com/tags/joy/index.xml</link>
+    <link>http://kevinwli.com/tags/joy/</link>
     <description>Recent content in Joy on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kevinwli.com/tags/joy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kevinwli.com/tags/joy/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Joy</title>
@@ -14,28 +17,7 @@
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2015-12-30-joy-review/</guid>
-      <description>&lt;p&gt;As the film celebrates strong matriarchal characters and the power of determination, I can’t help but wish “Joy” was better.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/s--U4diYn5P--/c_scale,q_jpegmini:1,w_1600/v1480470084/Joy_g8smuu.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;This is David O. Russell’s third film in a row featuring the talented Jennifer Lawrence, but unlike “Silver Lining’s Playbook” and “American Hustle”, “Joy” is a bumpy ride that isn’t always enjoyable.&lt;/p&gt;
-
-&lt;p&gt;The film is loosely based on the life of Joy Mangano, inventor of the Miracle Mop and eventual founder of Home Shopping Network (HSN). The key word here is “loosely”, as much of the film is a fictional recount of Joy’s tale from rags to riches, and the name Mangano is never even mentioned. It’s best to review this film as fiction rather than a biopic.&lt;/p&gt;
-
-&lt;p&gt;Jennifer Lawrence does a fine job portraying Joy and makes us care about her and her dreams. It makes scenes with her bloodsucking leech of a family that much harder to watch because each one of them, save for her grandmother and children, seems bent on suffocating her creativity and keeping her in a subservient position.&lt;/p&gt;
-
-&lt;p&gt;The film ultimately suffers from a lack of balance, cohesion, and tonal control. I wasn’t sure whether the film was supposed to be a comedy or drama or both. The scenes that are supposed to be comedic are funny in a feel-bad kind of way since most of them are at the expense of Joy’s happiness. Scenes of despair feel cheapened when they are quickly followed by a scene of triumph. Whether or not these choices were intentional, the end result is the same: a chaotic work that leaves much to be desired.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;#9733; &amp;#9733; &amp;#9733;&lt;/h3&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Director: David O. Russell&lt;/p&gt;
-
-&lt;p&gt;Starring: Jennifer Lawrence, Robert De Niro, Bradley Cooper&lt;/p&gt;
-
-&lt;p&gt;2015, PG-13, 124 min&lt;/p&gt;</description>
+      <description>&lt;p&gt;As the film celebrates strong matriarchal characters and the power of determination, I can’t help but wish “Joy” was better.&lt;/p&gt;</description>
     </item>
     
   </channel>

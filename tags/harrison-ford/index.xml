@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harrison Ford on Kevin Li</title>
-    <link>http://kevinwli.com/tags/harrison-ford/index.xml</link>
+    <link>http://kevinwli.com/tags/harrison-ford/</link>
     <description>Recent content in Harrison Ford on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kevinwli.com/tags/harrison-ford/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kevinwli.com/tags/harrison-ford/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Force Awakens</title>
@@ -14,34 +17,7 @@
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://kevinwli.com/post/2015-12-18-star-wars-the-force-awakens-review/</guid>
-      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#39;https://res.cloudinary.com/lilingkai/image/upload/v1480470079/starwars_sbmgqh.jpg&#39; style=&#34;max-width: 100%; height: auto; witdth: auto\9; /* ie8 */&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;The seventh installment of the famed franchise arrives three years after George Lucas sold Lucasfilm to Disney. The sale allowed Disney to take control of the story, and they decided to depart from Lucas&amp;rsquo; original outline. Sounds scary I know, but the fandom can rest assured as the Force is apparently strong with Disney, and they&amp;rsquo;ve created a brilliant space opera.&lt;/p&gt;
-
-&lt;p&gt;Much like the original trilogy, “The Force Awakens” is a classic good versus bad story, but this time it’s fueled with exciting new characters, Rey (Daisy Ridley), Finn (John Boyega), and Poe (Oscar Isaac) alongside the iconic originals, Han Solo (Harrison Ford), Princess Leia (Carrie Fisher), and Luke Skywalker (Mark Hamill). The film takes place three decades after the events of “Return of the Jedi” and the familiar slanted word-scroll fills us in with the details of the past thirty years. In short: Luke Skywalker has vanished, and in his absence, the ashes of the old Empire have given birth to The First Order, a new threat to all peaceful systems and planets. It’s a race to see who can find Luke faster; the bad guys need to destroy the last Jedi knight, and the good guys need him to lead their side to victory.&lt;/p&gt;
-
-&lt;p&gt;Abrams tells the story with masterful pacing and balance. From action sequences to character development or sentimental drama to comic relief, the film never misses a beat. The plot is always driving forward, yet it seems to take its time traveling through the magnificent world that has been built, complete with its own eclectic mix of alien species and droids.&lt;/p&gt;
-
-&lt;p&gt;The seamless integration of new and old characters is a true testament to the success of the film. The new characters are never overshadowed by the old, and Ridley and Boyega have great chemistry with Ford, who acts as a sort of father figure while retaining the grumpy and irreverent attitude of Han Solo that fans have come to know and love. It’s safe to say that many viewers will walk out of the theater finding that while Luke, Han, and Leia still hold a special place in their hearts, they&amp;rsquo;ve also made room for the young Rey and Finn (and the adorable droid, BB-8).&lt;/p&gt;
-
-&lt;p&gt;Of course, the film isn’t perfect, but was perfection ever a feasibility? It certainly isn&amp;rsquo;t possible to please everybody. Some fans might be disappointed with the supposed power of the Dark Side, or the fact that the plot errs on the safe side. But for every &amp;ldquo;wrong&amp;rdquo;, there are ten more things that Abrams gets right.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;#9733; &amp;#9733; &amp;#9733; &amp;#9733;&lt;/h3&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Director: J.J. Abrams&lt;/p&gt;
-
-&lt;p&gt;Starring: Daisy Ridley, John Boyega, Oscar Isaac, Adam Driver, Harrison Ford, Carrie Fisher, Mark Hamill&lt;/p&gt;
-
-&lt;p&gt;2015, PG-13, 135 min&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;#10084;&amp;#xFE0E; : Its the new characters that win over my heart. I can&#39;t wait to see how where the story will take Rey and Finn and how they will grow. I also tend to feel strongly movies when I admire the actors, and if Daisy Ridley keeps up the good work, she will join that small list of actors. &lt;/p&gt;</description>
+      <description>&lt;p&gt;The most anticipated movie of the year, &amp;ldquo;Star Wars: The Force Awakens&amp;rdquo;, lives up to all the hype, and J. J. Abrams delivers the best early Christmas present I could ask for.&lt;/p&gt;</description>
     </item>
     
   </channel>
