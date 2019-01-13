@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kevinwli.com/post/2019-01-13-roma-review/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2019-01-06-the-ballad-of-buster-scruggs-review/</loc>
     <lastmod>2019-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -71,7 +76,7 @@
   
   <url>
     <loc>http://kevinwli.com/tags/2018/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,6 +89,12 @@
   <url>
     <loc>http://kevinwli.com/tags/alejandro-gonz%C3%A1lez-i%C3%B1%C3%A1rritu/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/alfonso-cuar%C3%B3n/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,6 +146,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/diego-cortina-autrey/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/disney/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -148,7 +165,7 @@
   
   <url>
     <loc>http://kevinwli.com/categories/film-review/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,7 +237,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,6 +262,12 @@
   <url>
     <loc>http://kevinwli.com/tags/liam-neeson/</loc>
     <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/marina-de-tavira/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -280,13 +303,13 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/project-film-52/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -298,7 +321,7 @@
   
   <url>
     <loc>http://kevinwli.com/tags/r/</loc>
-    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -311,6 +334,12 @@
   <url>
     <loc>http://kevinwli.com/tags/robert-de-niro/</loc>
     <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/roma/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,6 +460,12 @@
   <url>
     <loc>http://kevinwli.com/tags/wonder-woman/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/yalitza-aparicio/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
