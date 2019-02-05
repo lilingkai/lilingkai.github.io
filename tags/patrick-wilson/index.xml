@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liam Neeson on Kevin Li</title>
-    <link>http://kevinwli.com/tags/liam-neeson/</link>
-    <description>Recent content in Liam Neeson on Kevin Li</description>
+    <title>Patrick Wilson on Kevin Li</title>
+    <link>http://kevinwli.com/tags/patrick-wilson/</link>
+    <description>Recent content in Patrick Wilson on Kevin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kevinwli.com/tags/liam-neeson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kevinwli.com/tags/patrick-wilson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://kevinwli.com/post/2019-02-04-the-commuter-review/</guid>
       <description>&lt;p&gt;The experience of watching “The Commuter” ends up being like most commutes: we know where we’re headed, and the train gets us there somewhat reliably, but the ride isn’t all that memorable.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Ballad of Buster Scruggs</title>
-      <link>http://kevinwli.com/post/2019-01-06-the-ballad-of-buster-scruggs-review/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://kevinwli.com/post/2019-01-06-the-ballad-of-buster-scruggs-review/</guid>
-      <description>&lt;p&gt;The Coen Brothers venture into the Wild West yet again with “The Ballad of Buster Scruggs”, but this time, they return with just a few specks of gold and a mound of dirt.&lt;/p&gt;</description>
     </item>
     
   </channel>
