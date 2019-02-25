@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kevinwli.com/post/2019-02-24-green-book-review/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2019-02-17-to-all-the-boys-ive-loved-before-review-pp/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
   </url>
@@ -107,7 +112,7 @@
   
   <url>
     <loc>http://kevinwli.com/tags/2018/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -232,13 +237,19 @@
   
   <url>
     <loc>http://kevinwli.com/categories/film-review/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/gal-gadot/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/green-book/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -322,7 +333,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -357,8 +368,20 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/linda-cardellini/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/lost-in-translation/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/mahershala-ali/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -405,8 +428,14 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/peter-farrelly/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/pg-13/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -418,13 +447,13 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/project-film-52/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -623,6 +652,12 @@
   <url>
     <loc>http://kevinwli.com/tags/vera-famiga/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/viggo-mortensen/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
