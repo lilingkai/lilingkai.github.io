@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kevinwli.com/post/2019-04-02-the-favourite-review/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2019-03-24-captain-marvel-review-pp/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
   </url>
@@ -132,7 +137,7 @@
   
   <url>
     <loc>http://kevinwli.com/tags/2018/</loc>
-    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -262,6 +267,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/david-yates/</loc>
+    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/dear-ex/</loc>
     <lastmod>2019-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -298,6 +309,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/emma-stone/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/ezra-miller/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -317,7 +334,7 @@
   
   <url>
     <loc>http://kevinwli.com/categories/film-review/</loc>
-    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -437,7 +454,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -514,6 +531,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/olivia-colman/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/oscar-isaac/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -551,13 +574,13 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/project-film-52/</loc>
-    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -569,7 +592,13 @@
   
   <url>
     <loc>http://kevinwli.com/tags/r/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/rachel-weisz/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -684,6 +713,12 @@
   <url>
     <loc>http://kevinwli.com/tags/the-commuter/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/the-favourite/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -828,6 +863,12 @@
   <url>
     <loc>http://kevinwli.com/tags/ying-xuan-hsieh/</loc>
     <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/yorgos-lanthimos/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
