@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kevinwli.com/post/2019-07-21-murder-mystery-review/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/post/2019-06-14-always-be-my-maybe-review/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -168,13 +173,19 @@
   
   <url>
     <loc>http://kevinwli.com/tags/2019/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/adam-driver/</loc>
     <lastmod>2015-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/adam-sandler/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,7 +442,7 @@
   
   <url>
     <loc>http://kevinwli.com/categories/film-review/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -504,6 +515,12 @@
   <url>
     <loc>http://kevinwli.com/tags/jaume-collet-serra/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/jennifer-aniston/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -581,7 +598,7 @@
   
   <url>
     <loc>http://kevinwli.com/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -594,6 +611,12 @@
   <url>
     <loc>http://kevinwli.com/tags/kurt-russell/</loc>
     <lastmod>2016-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinwli.com/tags/kyle-newacheck/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -670,6 +693,12 @@
   </url>
   
   <url>
+    <loc>http://kevinwli.com/tags/murder-mystery/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinwli.com/tags/nahnatchka-khan/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -737,7 +766,7 @@
   
   <url>
     <loc>http://kevinwli.com/tags/pg-13/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -749,13 +778,13 @@
   
   <url>
     <loc>http://kevinwli.com/post/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kevinwli.com/tags/project-film-52/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
